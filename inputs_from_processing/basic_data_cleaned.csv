@@ -1,6 +1,5 @@
 |name|average_rate|nb_of_reviews|address|city|postal_code
 0|Pizza Wawa|4.5|1535|35 Rue Saint-Honoré, 75001 Paris|Paris|75001
-1|Pizzeria Iovine's|4.5|2591|7bis Rue du Colonel Driant, 75001 Paris|Paris|75001
 2|Milo|4.6|579|44 Rue Saint-Honoré, 75001 Paris|Paris|75001
 3|La Tavola Calda|4.5|513|39 Rue des Bourdonnais, 75001 Paris|Paris|75001
 4|Liberto|4.7|1697|23 Rue Berger, 75001 Paris|Paris|75001
@@ -22,7 +21,6 @@
 20|Pendino|4.3|659|6 Rue de l'Échelle, 75001 Paris|Paris|75001
 21|Cinquecento|3.9|1433|38 Rue Saint-Denis, 75001 Paris|Paris|75001
 22|Caffe dei Fratelli|4.2|656|10 Rue des Pyramides, 75001 Paris|Paris|75001
-23|Pizza Time® Châtelet|3.9|66|33 Rue Saint-Denis, 75001 Paris|Paris|75001
 24|Liberta|4.4|1042|32 Rue du Pont Neuf, 75001 Paris|Paris|75001
 25|La Perla|4.3|3759|5 Rue Montorgueil, 75001 Paris|Paris|75001
 26|Ristorante Fellini|4.3|150|47 Rue de l'Arbre Sec, 75001 Paris|Paris|75001
@@ -53,7 +51,6 @@
 51|Pizzeria Popolare|4.5|12493|111 Rue Réaumur, 75002 Paris|Paris|75002
 52|Crudus|3.9|32|21 Rue Saint-Roch, 75001 Paris|Paris|75001
 53|Adaggio|4.5|649|207 Rue La Fayette, 75010 Paris|Paris|75010
-54|Peppe Pizzeria|4.5|2351|2 Pl. Saint-Blaise, 75020 Paris|Paris|75020
 55|Loulou Restaurant Paris|4.2|1940|107 Rue de Rivoli, 75001 Paris|Paris|75001
 56|Pastavino|3.6|246|101 Rue Berger, 75001 Paris|Paris|75001
 57|Le Mille Pâtes|4.7|62|5 Rue des Petits Champs, 75001 Paris|Paris|75001
@@ -63,55 +60,42 @@
 61|La Trattoria Della Pasta|3.3|4|14 Rue Jean-Jacques Rousseau, 75001 Paris|Paris|75001
 62|PATAPIZZA|4.8|52|20 Rue Eugène Varlin, 75010 Paris|Paris|75010
 63|In bocca al lupo|4.6|613|14 Rue Francœur, 75018 Paris|Paris|75018
-64|Pizza Chic|4.1|537|13 Rue de Mézières, 75006 Paris|Paris|75006
-65|Pizza Rustica|3.8|517|24 Rue Saint-André des Arts, 75006 Paris|Paris|75006
 66|L'Assaggio|4.4|97|37 Rue Cambon, 75001 Paris|Paris|75001
 67|Senso Pizza|4.7|115|49 Rue Olivier de Serres, 75015 Paris|Paris|75015
-68|BRAVA PIZZA|4.6|243|38 Rue du Cardinal Lemoine, 75005 Paris|Paris|75005
 69|5PIZZ.com Pizza a 5 Euro a Domicile Pizza Paris 18|4.2|482|30 Rue Marx Dormoy, 75018 Paris|Paris|75018
 70|Papelli|4.6|546|61 Rue du Faubourg Saint-Martin, 75010 Paris|Paris|75010
 71|PIZZA NAPOLITANA|4.8|13|27 Rue Pierre Fontaine, 75009 Paris|Paris|75009
 72|Marmaris|3.2|164|17 Rue Saint-Denis, 75001 Paris|Paris|75001
-73|Marzo|4.3|542|5 Rue Paul-Louis Courier, 75007 Paris|Paris|75007
 74|Pépé Ronchon|4.8|411|31 Rue Saint-Lazare, 75009 Paris|Paris|75009
-75|Matteo Pizza Paris 9 Grands Boulevards|4.7|290|18 Rue du Faubourg Montmartre, 75009 Paris|Paris|75009
 76|Domicile Pizza|4.3|209|12 Rue Adolphe Mille, 75019 Paris|Paris|75019
 77|Pizzeria Iovine’s|4.9|65|8 Rue Boudreau, 75009 Paris|Paris|75009
 78|Le TUB|4.0|339|26 Rue de Beaujolais, 75001 Paris|Paris|75001
 79|Le Cosy|3.4|808|26 Rue du Mont Thabor, 75001 Paris|Paris|75001
-80|Pizzeria Rebellato|4.1|269|138 Rue de la Pompe, 75016 Paris|Paris|75016
 81|Pizza Piano|4.6|231|115rue Saint Martin, 75004 Paris|Paris|75004
-82|Luisa Maria|4.4|594|12 Rue Monsieur le Prince, 75006 Paris|Paris|75006
 83|La Massara|4.5|1853|70 R. de Turbigo, 75003 Paris|Paris|75003
 84|Maria Luisa Pizzeria|4.1|693|2 Rue Marie et Louise, 75010 Paris|Paris|75010
 85|Come Prima 20e|4.6|152|76 Rue Alexandre Dumas, 75020 Paris|Paris|75020
 86|Popine Sacré Cœur|4.3|1102|10 Rue Dancourt, 75018 Paris|Paris|75018
-87|Ciore cuisine napolitaine et epicerie|4.7|206|6 Rue Malher, 75004 Paris|Paris|75004
 88|pizza404|4.5|121|4 Rue Poissonnière, 75002 Paris|Paris|75002
-89|La Vittoria|4.8|268|173 Rue du Temple, 75003 Paris|Paris|75003
 90|CHEZ MILO|4.1|486|16 Rue Maublanc, 75015 Paris|Paris|75015
 91|PALLA PIZZA|5.0|2|10 R. des Petites Écuries, 75010 Paris|Paris|75010
 92|Le Musset|4.0|1894|169 Rue Saint-Honoré, 75001 Paris|Paris|75001
 93|Le Généreux|4.1|374|119 Rue Saint-Denis, 75001 Paris|Paris|75001
-94|Pizza Sant'Antonio|4.0|1531|1 Rue de la Verrerie, 75004 Paris|Paris|75004
 95|The Hills Pizza|4.7|24|Rue Chénier 6, 75002 Paris|Paris|75002
 96|Five Pizza Original - Paris 2 - Réaumur|4.0|358|162 Rue Saint-Denis, 75002 Paris|Paris|75002
-97|Pizzeria Iovine's.|4.5|469|27 Rue de Bretagne, 75003 Paris|Paris|75003
 98|PizzaPresto Paris|3.6|270|42 Rue de Rivoli, 04 75004 Paris|Paris|75004
 99|La Factory Burger Paris|4.5|420|20 Rue des Halles, 75001 Paris|Paris|75001
 100|Babalou|4.4|896|4 Rue Lamarck, 75018 Paris|Paris|75018
-101|La Cerise sur la Pizza - Rue de Bretagne|4.6|237|14 Rue Froissart, 75003 Paris|Paris|75003
 102|Pizza Omilgout|4.9|109|3 Rue de Budapest, 75009 Paris|Paris|75009
 103|Café Saint Honoré|4.1|766|194 Rue Saint-Honoré, 75001 Paris|Paris|75001
-104|Louie Louie|4.5|1090|78 Rue de Charonne, 75011 Paris|Paris|75011
 105|Fluctuat|4.3|124|74 Quai des Orfèvres, 75001 Paris|Paris|75001
-106|Racina|4.5|392|43 Rue Descartes, 75005 Paris|Paris|75005
 107|Pizzeria Renato|4.3|369|41 Bd du Temple, 75003 Paris|Paris|75003
 108|Restaurant Capri|4.4|497|49 Rue Richer, 75009 Paris|Paris|75009
 109|PRESTO & CO|4.6|103|39 Rue de Provence, 75009 Paris|Paris|75009
 110|Pizza Pino|3.6|1432|27 Bd des Italiens, 75002 Paris|Paris|75002
 111|Ademi Montmartre|4.5|611|156 Rue Montmartre, 75002 Paris|Paris|75002
 112|L'Artisan du Burger - Les Halles|4.0|1298|94 Rue Rambuteau, 75001 Paris|Paris|75001
+114|BRAVA PIZZA|4.6|243|38 Rue du Cardinal Lemoine, 75005 Paris|Paris|75005
 115|Arrivederci pizzeria|4.6|1431|47 Rue Gay-Lussac, 75005 Paris|Paris|75005
 116|Bonvivant Pizza|4.5|122|4 Rue des Écoles, 75005 Paris|Paris|75005
 117|Little Napoli|4.4|131|5 Rue du Pot de Fer, 75005 Paris|Paris|75005
@@ -126,6 +110,7 @@
 126|Amore Mio|4.2|436|13 Rue Linné, 75005 Paris|Paris|75005
 127|Happiz Monge|4.6|253|9 Rue Monge, 75005 Paris|Paris|75005
 128|Pizza sarno|3.9|869|31 Rue de la Harpe, 75005 Paris|Paris|75005
+129|Racina|4.5|392|43 Rue Descartes, 75005 Paris|Paris|75005
 130|Papilla|4.6|408|9 Rue Soufflot, 75005 Paris|Paris|75005
 131|Five Pizza Original - Paris 5 - Jussieu|4.2|1281|41-43 Rue Linné, 75005 Paris|Paris|75005
 132|Girasole|4.1|230|5 Rue Linné, 75005 Paris|Paris|75005
@@ -163,7 +148,9 @@
 164|Sacha Pizza|4.5|2|42 Rue Daubenton, 75005 Paris|Paris|75005
 165|Prosciutteria Paris - By Forno Gusto|4.6|165|61 Quai de la Tournelle, 75005 Paris|Paris|75005
 166|SoHo Trattoria|4.2|1003|33 Rue Saint-Jacques, 75005 Paris|Paris|75005
+167|Luisa Maria|4.4|594|12 Rue Monsieur le Prince, 75006 Paris|Paris|75006
 168|Panuozzo|5.0|1|11 Rue Cujas, 75005 Paris|Paris|75005
+169|Pizza Rustica|3.8|517|24 Rue Saint-André des Arts, 75006 Paris|Paris|75006
 170|Rim Café|3.8|379|38 Rue Saint-Séverin, 75005 Paris|Paris|75005
 171|Restaurant Oulala Paris Halal|4.4|1235|20 Rue Mouffetard, 75005 Paris|Paris|75005
 172|Domino's Pizza Paris 5|3.2|264|40 Bd Saint-Marcel, 75005 Paris|Paris|75005
@@ -180,6 +167,7 @@
 183|Pizza Delambre|4.7|131|28 Rue Delambre, 75014 Paris|Paris|75014
 184|FAMOUS SLICE New York style pizza|4.6|104|6 Rue d'Odessa, 75014 Paris|Paris|75014
 185|Da Pietro Pizzeria|4.3|425|12 Rue Mabillon, 75006 Paris|Paris|75006
+186|Pizza Chic|4.1|537|13 Rue de Mézières, 75006 Paris|Paris|75006
 187|LE ROYAL|4.2|337|90 Bd de Port-Royal, 75005 Paris|Paris|75005
 188|Mkd Fooding|4.0|4|101 Bd Saint-Michel, 75005 Paris|Paris|75005
 189|Pizzeria Pepone|3.8|277|3 Rue Grégoire de Tours, 75006 Paris|Paris|75006
@@ -192,6 +180,7 @@
 196|Pizza Vesuvio - St Germain des Prés|4.0|1088|1 Rue Gozlin, 75006 Paris|Paris|75006
 197|Restaurant Chez Bartolo|4.1|570|7 Rue des Canettes, 75006 Paris|Paris|75006
 198|Pizza di Gio|4.5|48|48 Rue du Cherche-Midi, 75006 Paris|Paris|75006
+199|Pizza Sant'Antonio|4.0|1531|1 Rue de la Verrerie, 75004 Paris|Paris|75004
 200|Trattoria César|4.2|883|81 Bd Saint-Marcel, 75013 Paris|Paris|75013
 201|Il Forno Di Napoli|4.4|1093|162 Bd du Montparnasse, 75014 Paris|Paris|75014
 202|Pizza Marinara|4.3|104|46 Rue Dauphine, 75006 Paris|Paris|75006
@@ -199,23 +188,25 @@
 204|Le Bistro Italien|3.0|66|1 Pl. de la Contrescarpe, 75005 Paris|Paris|75005
 205|Inizio|4.8|146|41 Rue du Montparnasse, 75014 Paris|Paris|75014
 206|La piazzetta|4.3|137|1 Rue Bréa, 75006 Paris|Paris|75006
+207|Pizzeria Iovine's|4.5|2591|7bis Rue du Colonel Driant, 75001 Paris|Paris|75001
 208|Tripletta Gaité|4.3|977|1 Imp. de la Gaité, 75014 Paris|Paris|75014
 209|Pizza Cordial|4.1|68|39 Rue Pascal, 75013 Paris|Paris|75013
-210|Pizza Del Navona|4.1|626|60 Av. des Gobelins, 75013 Paris|Paris|75013
 211|Pizzamore Paris|4.6|478|121 Av. du Maine, 75014 Paris|Paris|75014
 212|La Mamma|4.2|299|46 Rue Vavin, 75006 Paris|Paris|75006
-213|Marzo|4.3|541|5 Rue Paul-Louis Courier, 75007 Paris|Paris|75007
 214|L'isolotto|4.4|650|25 Rue Saint-André des Arts, 75006 Paris|Paris|75006
 215|Pizza Girl|4.4|145|132 Rue de Vaugirard, 75006 Paris|Paris|75006
 216|Pazzo pasta et pizza en ville|3.9|35|20 Rue du Dragon, 75006 Paris|Paris|75006
 217|Mamma Roma Cherche-Midi|4.1|353|55 Rue du Cherche-Midi, 75006 Paris|Paris|75006
 218|Pinocchio|4.3|1823|19 Bd Edgar Quinet, 75014 Paris|Paris|75014
 219|Bonvivant|4.3|1143|7 Rue des Écoles, 75005 Paris|Paris|75005
-220|Delfino|4.2|516|Place Pinel, 1 Rue de Campo-Formio, 75013 Paris|Paris|75013
+221|La Cerise sur la Pizza - Rue de Bretagne|4.6|237|14 Rue Froissart, 75003 Paris|Paris|75003
 222|Il Barone|4.5|258|5 Rue Léopold Robert, 75014 Paris|Paris|75014
 224|Cucina Mutualité|4.1|300|20 Rue Saint-Victor, 75005 Paris|Paris|75005
 225|Pizza e Fichi|4.1|162|7 Rue de la Cerisaie, 75004 Paris|Paris|75004
+226|Matteo Pizza Paris 9 Grands Boulevards|4.7|290|18 Rue du Faubourg Montmartre, 75009 Paris|Paris|75009
+227|Ciore cuisine napolitaine et epicerie|4.7|206|6 Rue Malher, 75004 Paris|Paris|75004
 228|Girasole Due|4.5|347|69 Rue de Croulebarbe, 75013 Paris|Paris|75013
+229|Pizzeria Iovine's.|4.5|469|27 Rue de Bretagne, 75003 Paris|Paris|75003
 230|AVE Pizza Romana|4.6|451|90 Rue de la Folie Méricourt, 75011 Paris|Paris|75011
 231|Basilic & Co|4.6|168|58 Bd Voltaire, 75011 Paris|Paris|75011
 232|Sonny’s pizza|4.6|272|5 Rue de la Fontaine au Roi, 75011 Paris|Paris|75011
@@ -227,15 +218,12 @@
 238|La Gondola|4.3|341|35 Rue Oberkampf, 75011 Paris|Paris|75011
 239|Pizzeria Arlecchino|4.4|139|40 Rue Oberkampf, 75011 Paris|Paris|75011
 240|Il Seguito|4.4|542|56 Bd Beaumarchais, 75011 Paris|Paris|75011
-241|Pizza house Paris 11|4.7|100|4 Rue Des Trois Couronnes, 75011 Paris|Paris|75011
 242|Dai Dai|4.4|546|25 Rue Oberkampf, 75011 Paris|Paris|75011
 243|Five Pizza Original - Paris 11 - Oberkampf|4.5|459|122 Rue Oberkampf, 75011 Paris|Paris|75011
-244|Pizza Center Milano|4.4|276|36 Rue de l'Orillon, 75011 Paris|Paris|75011
 245|Verace Bastille|4.8|232|10 Rue St Sabin, 75011 Paris|Paris|75011
 246|Nove|4.4|860|7 Rue de Charonne, 75011 Paris|Paris|75011
 247|Ober Mamma|4.5|6504|107 Bd Richard-Lenoir, 75011 Paris|Paris|75011
 248|Five Pizza Original - Paris 10 - République|4.6|597|26 Rue du Faubourg du Temple, 75010 Paris|Paris|75010
-249|Pizza Mamma Paris|4.7|100|31 Rue Pétion, 75011 Paris|Paris|75011
 250|Oxymore|4.7|1710|60 Rue Saint-Maur, 75011 Paris|Paris|75011
 251|Da Vito|4.5|320|5 Rue Sedaine, 75011 Paris|Paris|75011
 252|La Cerise sur la Pizza - Belleville|4.4|279|96 Rue Jean-Pierre Timbaud, 75011 Paris|Paris|75011
@@ -243,7 +231,6 @@
 254|Terre Rosse pizzeria|4.7|281|14 Rue des Goncourt, 75011 Paris|Paris|75011
 255|Louie Louie|4.5|1091|78 Rue de Charonne, 75011 Paris|Paris|75011
 256|Rivoluzione|4.4|487|24 Rue des Taillandiers, 75011 Paris|Paris|75011
-257|Pizza Mario|4.1|174|19 Av. de la République, 75011 Paris|Paris|75011
 258|La Pizza de Nico Paris Bastille|4.6|138|2 Bd Richard-Lenoir, 75011 Paris|Paris|75011
 259|Amici Miei|4.4|575|44 Rue St Sabin, 75011 Paris|Paris|75011
 260|Ammazza|4.4|637|5 Rue St Sabin, 75011 Paris|Paris|75011
@@ -251,6 +238,7 @@
 262|Pizza Di Roma|3.9|14|129 Rue Amelot, 75011 Paris|Paris|75011
 263|Restaurant Italien Arlecchino|4.3|458|42 Av. de la République, 75011 Paris|Paris|75011
 264|Domino's Pizza Paris 13 - BNF|4.2|131|40 Rue de Tolbiac, 75013 Paris|Paris|75013
+265|Delfino|4.2|516|Place Pinel, 1 Rue de Campo-Formio, 75013 Paris|Paris|75013
 266|La Piola Sciacatra Pizzeria Trattoria|4.6|254|43 Rue de Tolbiac, 75013 Paris|Paris|75013
 267|L'ATELIER PIZZA|4.8|116|4 Rue Jeanne d'Arc, 75013 Paris|Paris|75013
 268|Piacere pizza|4.3|367|81 Rue Bobillot, 75013 Paris|Paris|75013
@@ -264,6 +252,7 @@
 276|Pizzeria del Gladiatore Subito|4.1|216|37 Rue Dunois, 75013 Paris|Paris|75013
 277|Pizza Pronto|4.3|64|14 Bd Kellermann, 75013 Paris|Paris|75013
 278|Pizza Mamma|4.3|85|7 Rue Henri Pape, 75013 Paris|Paris|75013
+279|Pizza Del Navona|4.1|626|60 Av. des Gobelins, 75013 Paris|Paris|75013
 280|Pizza Italie 2 paris|4.5|115|7 Av. d'Italie, 75013 Paris|Paris|75013
 281|Domino's Pizza Paris 13 - Tolbiac|2.6|297|201 Rue de Tolbiac, 75013 Paris|Paris|75013
 282|Molto Gusto|3.8|384|111 Rue du Chevaleret, 75013 Paris|Paris|75013
@@ -296,6 +285,7 @@
 310|Anita|4.5|362|182 Quai Louis Blériot, 75016 Paris|Paris|75016
 311|Forno Gusto Paris - Big Forno Group|4.4|187|43 Rue de Chaillot, 75116 Paris|Paris|75016
 312|La Cantina|4.4|648|11 Rue Claude Terrasse, 75016 Paris|Paris|75016
+313|Pizzeria Rebellato|4.1|269|138 Rue de la Pompe, 75016 Paris|Paris|75016
 314|Daroco 16|4.2|667|3 Pl. Clément Ader, 75016 Paris|Paris|75016
 315|Nonna|4.6|59|20 Rue Mirabeau, 75016 Paris|Paris|75016
 316|RAGAZZI|4.2|291|83 Rue de Longchamp, 75116 Paris|Paris|75016
@@ -375,15 +365,14 @@
 390|Pizzeria San Marino|4.5|98|8 Rue Lakanal, 75015 Paris|Paris|75015
 391|Dom's|4.2|130|33 Rue de l'Annonciation, 75016 Paris|Paris|75016
 392|Doner king|3.9|571|54 Av. Mozart, 75016 Paris|Paris|75016
-393|Da Piero Pizza & Pasta|4.5|320|59 Av. de Suffren, 75007 Paris|Paris|75007
 394|La Brasserie Italienne|3.7|184|73 Av. Kléber, 75116 Paris|Paris|75016
 395|Restaurant Le Moulin d'Auteuil|3.8|215|75 bis Rue d'Auteuil, 75016 Paris|Paris|75016
 396|Le repère Gourmand|3.7|110|31 Bd Murat, 75016 Paris|Paris|75016
 397|L'entrepôt|4.8|19|50 Rue de Passy, 75016 Paris|Paris|75016
 398|CAFE 55|4.4|95|55 Av. de la Grande Armée, 75116 Paris|Paris|75016
-399|RICCI Eiffel|4.3|388|73 Av. Bosquet, 75007 Paris|Paris|75007
 400|La pizza|4.6|100|268 Rue Lecourbe, 75015 Paris|Paris|75015
 401|Giovanni Boulangerie Contemporaine|4.3|141|49 Rue Chardon Lagache, 75016 Paris|Paris|75016
+402|La Vittoria|4.8|268|173 Rue du Temple, 75003 Paris|Paris|75003
 403|Bambini Paris|3.1|831|Palais De Tokyo, 13 Av. du Président Wilson, 75116 Paris|Paris|75016
 404|La Pasta 3|4.0|24|59 Av. Mozart, 75016 Paris|Paris|75016
 405|Pizza sur Seine|3.8|85|Port de Beaugrenelle, 75015 Paris|Paris|75015
@@ -458,11 +447,11 @@
 475|Dinapoli Pizza Paris 20.|4.6|124|1 B Rue de la Réunion, 75020 Paris|Paris|75020
 476|Pizzeria Paris 20 - Villa Cesar.|4.4|62|94 Rue des Pyrénées, 75020 Paris|Paris|75020
 477|Adelio Pizza.|4.7|160|43bis Rue des Pyrénées, 75020 Paris|Paris|75020
-478|Il Posto|4.4|1334|356 Rue des Pyrénées, 75020 Paris|Paris|75020
-479|La Toscana.|4.4|495|118 Av. Gambetta, 75020 Paris|Paris|75020
-480|Pizza Clip|4.4|269|13bis Av. du Père Lachaise, 75020 Paris|Paris|75020
-481|Five Pizza Original - Paris 20|4.0|204|110 Rue d'Avron, 75020 Paris|Paris|75020
+483|Five Pizza Original - Paris 20|4.0|204|110 Rue d'Avron, 75020 Paris|Paris|75020
+484|La Toscana.|4.4|495|118 Av. Gambetta, 75020 Paris|Paris|75020
 485|Domino's Pizza Paris 20 - Avron|2.8|242|71 Rue d'Avron, 75020 Paris|Paris|75020
+486|Il Posto|4.4|1334|356 Rue des Pyrénées, 75020 Paris|Paris|75020
+487|Pizza Clip|4.4|269|13bis Av. du Père Lachaise, 75020 Paris|Paris|75020
 488|Pizza Hut|3.4|196|7 Av. Gambetta, 75020 Paris|Paris|75020
 489|Il Villaggio|4.4|203|5 Rue Constant Berthaut, 75020 Paris|Paris|75020
 490|Pizza Hut|3.6|159|141 ter Av. Gambetta, 75020 Paris|Paris|75020
@@ -475,6 +464,7 @@
 497|Il Pinocchio|4.3|410|115 Av. Gambetta, 75020 Paris|Paris|75020
 498|Popinette|4.1|88|7 Rue Etienne Dolet, 75020 Paris|Paris|75020
 499|L'atelier du Kebab|4.4|178|119 Rue Pelleport, 75020 Paris|Paris|75020
+500|Pizza Center Milano|4.4|276|36 Rue de l'Orillon, 75011 Paris|Paris|75011
 501|Chicken time|3.8|149|114 Bd Davout, 75020 Paris|Paris|75020
 502|Cappuccino Ristorante|4.3|67|33 Rue de Tlemcen, 75020 Paris|Paris|75020
 503|L'Escale De L'Auberge.|4.0|93|178 Rue de Bagnolet, 75020 Paris|Paris|75020
@@ -486,7 +476,7 @@
 509|Pizza house Paris 11|4.7|101|4 Rue Des Trois Couronnes, 75011 Paris|Paris|75011
 510|Chicken Rapido|3.5|29|164 Bd Mortier, 75020 Paris|Paris|75020
 511|Pizzeria Palermo|5.0|3|35 Rue Pelleport, 75020 Paris|Paris|75020
-512|Pizza Mamma Paris|4.7|99|31 Rue Pétion, 75011 Paris|Paris|75011
+514|Pizza Mamma Paris|4.7|99|31 Rue Pétion, 75011 Paris|Paris|75011
 516|The Best Chicken|3.9|22|127 Rue Pelleport, 75020 Paris|Paris|75020
 517|Pizza Milano - chez Samy|4.3|52|9 Rue Guillaume Bertrand, 75011 Paris|Paris|75011
 518|La Belle Pizze|4.3|32|349 Rue de Belleville, 75019 Paris|Paris|75019
@@ -496,6 +486,7 @@
 523|Antioche|4.9|16|2 Rue de la Réunion, 75020 Paris|Paris|75020
 524|IL SANTO|4.3|123|78 Av. du Dr Arnold Netter, 75012 Paris|Paris|75012
 525|Semina|4.6|46|152 Rue de Charonne, 75011 Paris|Paris|75011
+526|Pizza Mario|4.1|174|19 Av. de la République, 75011 Paris|Paris|75011
 527|Lim Siu Hung|4.9|16|95 Rue Orfila, 75020 Paris|Paris|75020
 529|McDonald's|3.6|2348|Place Gambetta, 7 Face Mairie du, 75020 Paris|Paris|75020
 530|RFC Chicken - Pizza|3.8|46|59 Av. Philippe Auguste, 75011 Paris|Paris|75011
@@ -513,6 +504,7 @@
 542|Chez Pippo|4.6|2045|31 Av. de la Bourdonnais, 75007 Paris|Paris|75007
 543|GIOCO Paris 7e|4.5|354|25 Av. de Ségur, 75007 Paris|Paris|75007
 544|Casa pizza|4.4|19|26 Rue Malar, 75007 Paris|Paris|75007
+545|Marzo|4.3|541|5 Rue Paul-Louis Courier, 75007 Paris|Paris|75007
 546|CIAO RAGAZZI|4.8|27|22 B Rue Jean Nicot, 75007 Paris|Paris|75007
 547|Alfio|4.3|804|43 Av. de la Bourdonnais, 75007 Paris|Paris|75007
 548|Restaurant italien la gourmandise|4.5|155|28 Rue Augereau, 75007 Paris|Paris|75007
